@@ -1,7 +1,7 @@
 # Data Analysis Projects
 This repository has jupyter notebooks with my analytics projects showcasing a variety of methods including;
 
-- Timeseries analysis
+- Timeseries decomposition
 - Trend analysis
 - Correlation
 - Regression
