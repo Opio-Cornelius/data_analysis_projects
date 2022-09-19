@@ -1,2 +1,17 @@
-# data_analysis_projects
-Timeseries analysis and regression
+# Data Analysis Projects
+This repository has jupyter notebooks with my analytics projects showcasing a variety of methods including;
+
+- Timeseries analysis
+- Trend analysis
+- Correlation
+- Regression
+
+And the application of python libraries such as;
+
+- Pandas
+- Numpy
+- Statsmodels
+- Matplotlib
+- Seaborn
+
+Each individual notebook contains detail of the data, methods, and the analysis questions and the findings.
