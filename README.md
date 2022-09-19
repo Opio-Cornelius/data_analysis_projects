@@ -15,4 +15,4 @@ And the application of python libraries such as;
 - Matplotlib
 - Seaborn
 
-Each individual notebook contains detail of the data, methods, and the analysis questions and the findings.
+Each individual notebook contains detail of the data, methods, the analysis questions and the findings.
