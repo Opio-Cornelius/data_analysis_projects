@@ -4,8 +4,9 @@ This repository has jupyter notebooks with my analytics projects showcasing a va
 - Exploratory data analysis
 - Timeseries decomposition
 - Trend analysis
-- Correlation
+- Correlation and autocorrelation
 - Regression
+- Moving avregaes
 
 And the application of python libraries such as;
 
